@@ -10,5 +10,8 @@ public class Class01 {
         // Version 3 Kodları
         System.out.println("V3");
 
+        // Version 4 Kodları (Hatalı kodlar veya unutulan özellikleri eklemmedi)
+        System.out.println("Hatalı kodlar düzeltildi");
+
     }
 }
