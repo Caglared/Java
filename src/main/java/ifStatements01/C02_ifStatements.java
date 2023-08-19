@@ -20,7 +20,7 @@ public class C02_ifStatements {
             System.out.println("sayi tektir");
         }
 
-        //2.yol
+        //2.yol github
 
         if (sayi%2==0){//eger
             System.out.println("sayi cifttir");
